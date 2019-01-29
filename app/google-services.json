@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "500378976507",
+    "firebase_url": "https://myauth-32502.firebaseio.com",
+    "project_id": "myauth-32502",
+    "storage_bucket": "myauth-32502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500378976507:android:83efc8bde41f140b",
+        "android_client_info": {
+          "package_name": "com.israt.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500378976507-8s8ngdosil039lmreqs4e2jbo5da8cni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.israt.myapplication",
+            "certificate_hash": "5d6019b20d0d21a86f2e94ca9ab4a53d6e6ff9e3"
+          }
+        },
+        {
+          "client_id": "500378976507-ihibi0890nncs8h3s397o93hn25de97c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCqRmDqCgflppcnBxGuK5MXoITVm1fF1w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500378976507-594834d2pcd882sg1auvgae2pakjdef3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
